@@ -1,0 +1,6 @@
+[submodule "prmt_sintactic_addition"]
+	path = prmt_sintactic_addition
+	url = https://github.com/evil-is-good/prmt_sintactic_addition
+[submodule "calculation_core"]
+	path = calculation_core
+	url = https://github.com/evil-is-good/calculation_core
